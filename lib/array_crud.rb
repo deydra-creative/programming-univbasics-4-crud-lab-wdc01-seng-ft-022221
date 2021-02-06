@@ -1,5 +1,5 @@
 def create_an_empty_array
-  
+  ["fool", "magician", "high priestess", "emperor"]
 end
 
 def create_an_array
